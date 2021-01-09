@@ -1,1 +1,2 @@
-# PROJECTS-mini--Python
+# Mini-Projects-Python
+This repository contain Mini-Projects. 
