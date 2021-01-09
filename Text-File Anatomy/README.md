@@ -1,8 +1,8 @@
 Text-File Anatomy:
 1. Text-File Anatomy helps you to do analysis of any Text-File:
-2. It provides you details of Content in text file like :
-  a. NO. of Lines
-  b. No. of Characters
+2. It provides you details of Content in text file like:
+  1. NO. of Lines
+  2. No. of Characters
   3. Total No. of words
   4. No. of Unique Words
   5. No. of Repeated Words
